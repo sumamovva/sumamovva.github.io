@@ -17,17 +17,18 @@ Watched YouTube videos of following links:
 </ul>
 
 Repositories:
-jQuery Plugins and Scripts
-Animisition
-Jarallax
-SmoothScroll
-Owl Carousel
-Justified Gallaery
-Isotope JS
-Lightcase
-Wow Js
-Counter Up
-WayPoints
+<ul><li>jQuery Plugins and Scripts</li>
+<li>Animisition</li>
+<li>Jarallax</li>
+<li>SmoothScroll</li>
+<li>Owl Carousel</li>
+<li>Justified Gallaery</li>
+<li>Isotope JS</li>
+<li>Lightcase</li>
+<li>Wow Js</li>
+<li>Counter Up</li>
+<li>WayPoints</li>
+</ul>
 
 Author: animsition v4.0.2
 http://blivesta.github.io/animsition
