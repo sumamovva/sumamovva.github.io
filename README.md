@@ -2,7 +2,7 @@
 
 <b>Portfolio Site</b>
 <br>
-Built my portfolio for the HackHer TechTeam Challenge using HTML/CSS, JavaScript, Bootstrap, and Git.
+Built my portfolio for the HackHer TechTeam Challenge using HTML/CSS, basic JavaScript, Bootstrap, and Git.
 
 <b>Framework Used</b>
 <br>
