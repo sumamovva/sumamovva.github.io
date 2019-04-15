@@ -16,6 +16,28 @@ Watched YouTube videos of following links:
     <li> How To Create A Website Using HTML And CSS Step By Step Website Tutorial - https://www.youtube.com/watch?v=a2UnYs9AA_M </li>
 </ul>
 
+Repositories:
+jQuery Plugins and Scripts
+Animisition
+Jarallax
+SmoothScroll
+Owl Carousel
+Justified Gallaery
+Isotope JS
+Lightcase
+Wow Js
+Counter Up
+WayPoints
+
+Author: animsition v4.0.2
+http://blivesta.github.io/animsition
+blivesta (http://blivesta.com/)
+
+Author: Just Another Parallax [Jarallax]
+_nK http://nkdev.info
+https://github.com/nk-o/jarallax
+ 
+
 <b>How to Open in Browser?</b>
 <br>
 Just type in sumamovva.github.io in the search bar!
