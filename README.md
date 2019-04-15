@@ -4,9 +4,11 @@
 <br>
 Built my portfolio for the HackHer TechTeam Challenge using HTML/CSS, basic JavaScript, jQuery, Bootstrap, and Git.
 
-<b>How to Open in Browser?</b>
+<b>How to Run in Browser?</b>
 <br>
 Just type in sumamovva.github.io in the search bar!
+
+P.S. Please click on the navigation bar (upper right corner) after clicking on either project (PatientTracker or Synastry).
 
 <b>Frameworks Used</b>
 <br>
