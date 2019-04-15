@@ -16,3 +16,8 @@ Watched YouTube videos of following links:
     <li> How To Create A Website Using HTML And CSS Step By Step Website Tutorial - https://www.youtube.com/watch?v=a2UnYs9AA_M </li>
 </ul>
 
+<b>How to Open in Browser?</b>
+<br>
+Just type in sumamovva.github.io in the search bar!
+
+
