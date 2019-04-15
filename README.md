@@ -8,7 +8,7 @@ Built my portfolio for the HackHer TechTeam Challenge using HTML/CSS, basic Java
 <br>
 Just type in sumamovva.github.io in the search bar!
 
-P.S. Please click on the navigation bar (upper right corner) after clicking on either project (PatientTracker or Synastry).
+P.S. Please check out the navigation bar (upper right corner) after clicking on either project (PatientTracker or Synastry).
 
 <b>Frameworks Used</b>
 <br>
