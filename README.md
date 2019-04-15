@@ -4,6 +4,10 @@
 <br>
 Built my portfolio for the HackHer TechTeam Challenge using HTML/CSS, basic JavaScript, jQuery, Bootstrap, and Git.
 
+<b>How to Open in Browser?</b>
+<br>
+Just type in sumamovva.github.io in the search bar!
+
 <b>Frameworks Used</b>
 <br>
 jQuery, Bootstrap
@@ -38,9 +42,5 @@ Author: Just Another Parallax [Jarallax]
 _nK http://nkdev.info
 https://github.com/nk-o/jarallax
  
-
-<b>How to Open in Browser?</b>
-<br>
-Just type in sumamovva.github.io in the search bar!
 
 
